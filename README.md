@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 bem vindo ao meu perfil
 
 <!--
 **Juliana7777777777/Juliana7777777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVxbW5ieDc2c2toY3NueDN1ZjJiZ2VyZG1tNXo4NjhqNGNvc3diYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dg0hVakNxI0LaIQDQm/giphy-downsized-large.gif
